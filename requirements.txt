@@ -2,4 +2,3 @@ Flask
 sklearn
 panda
 numpy
-pickle
